@@ -1,0 +1,12 @@
+defaults:
+  - data: onehot
+  - training: default
+  - model: DanQ
+  - _self_
+
+hydra:
+  run:
+    dir: tmp/hydra/${hydra.job.name}/${now:%Y-%m-%d}/${now:%H:%M:%S}
+  sweep:
+    dir: tmp/hydra/${hydra.job.name}/${now:%Y-%m-%d}/${now:%H:%M:%S}
+    subdir: ${hydra.job.id}

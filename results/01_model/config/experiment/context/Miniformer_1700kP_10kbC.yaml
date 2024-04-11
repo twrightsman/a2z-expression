@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - base
+  - override /model: Miniformer
+
+model:
+  hyperparameters:
+    dim: 156

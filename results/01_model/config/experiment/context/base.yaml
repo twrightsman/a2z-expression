@@ -1,0 +1,6 @@
+# @package _global_
+data:
+  preprocessing:
+    upstream_context_bp: 10000
+training:
+  batch_size: 16

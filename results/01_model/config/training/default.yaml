@@ -1,0 +1,6 @@
+defaults:
+  - base
+
+optimizer:
+  name: Adam
+  lr: 1e-3

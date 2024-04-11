@@ -1,0 +1,7 @@
+# @package _global_
+training:
+  keep_genomes:
+    - Tripsacum_dactyloides/FL_9056069_6
+    - Tripsacum_dactyloides/McKain_334-5
+    - Elionurus_tripsacoides/Layton_Zhong_168
+    - Hemarthria_compressa/Kellogg_PI_404118

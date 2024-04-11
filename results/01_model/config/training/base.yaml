@@ -1,0 +1,15 @@
+batch_size: 64
+max_epochs: 200
+accelerator: gpu
+num_devices: 1
+limit_train_batches: null
+limit_val_batches: null
+detect_anomaly: false
+mlflow_tracking_uri: null
+mlflow_save_dir: tmp/mlflow
+experiment_name: ???
+compile_model: false
+validation_split_name: valSpOG
+seed: ???
+keep_genomes: null
+keep_prop: 1.0

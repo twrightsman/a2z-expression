@@ -1,0 +1,5 @@
+# Manuscript
+
+```
+pixi run build
+```

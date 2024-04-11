@@ -1,0 +1,7 @@
+defaults:
+  - base
+
+optimizer:
+  name: AdamW
+  lr: 6e-4
+  weight_decay: 0.1

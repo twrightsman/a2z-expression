@@ -1,0 +1,10 @@
+defaults:
+  - HyenaDNA-tiny
+
+named_configuration: small
+hyperparameters:
+  d_model: 256
+  n_layer: 4
+  d_inner: 1024
+  layer:
+    l_max: 32770

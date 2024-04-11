@@ -1,0 +1,6 @@
+defaults:
+  - base
+  - task: exp-max
+
+preprocessing:
+  input_type: 1-hot

@@ -1,0 +1,12 @@
+defaults:
+  - base
+  - task: exp-max
+
+preprocessing:
+  input_type: tokens
+  tokenizer:
+    _target_: a2ze.data.CharacterTokenizer
+    characters: ['A', 'C', 'G', 'T', 'N']
+    model_max_length: ${data.preprocessing.upstream_context_bp}
+    add_special_tokens: false
+    padding_side: left

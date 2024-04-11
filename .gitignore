@@ -1,0 +1,19 @@
+tmp/
+
+# Pixi
+.pixi/
+
+# Python
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Vim
+*.swp
+.idea/
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/

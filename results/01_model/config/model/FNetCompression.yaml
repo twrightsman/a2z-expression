@@ -1,0 +1,15 @@
+defaults:
+  - override /data@_group_: tokens
+
+architecture: FNetCompression
+hyperparameters:
+  embed_dim: 32
+  num_heads: 4
+  pool_size: 30
+  t_rate: 0.1
+  num_fnet_layers: 3
+  feedforward_dim: 64
+  low_pass_filter: true
+  num_transformer_layers: 2
+  final_fc_dim: 64
+  max_length: 1026

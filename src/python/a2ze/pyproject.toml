@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64.0"]  # for PEP-660 (editable install) support
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "a2ze"
+authors = [
+  { name = "Travis Wrightsman", email = "tw493@cornell.edu" },
+]
+description = "Utility functions for a2z-expression project"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["version"]
+
+[project.urls]
+"Homepage" = "https://github.com/twrightsman/a2z-expression"
+"Bug Tracker" = "https://github.com/twrightsman/a2z-expression/issues"
+
+[tool.setuptools.dynamic]
+version = {attr = "a2ze.__version__" }

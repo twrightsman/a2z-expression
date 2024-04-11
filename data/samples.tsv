@@ -1,0 +1,700 @@
+sample_id	species	genotype	library_layout	library_selection	reads_location	organ	age	replicate	reference
+AN21RN120	Andropogon chinensis	Pasquet 1232	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN122	Andropogon chinensis	Pasquet 1232	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN180	Andropogon chinensis	Pasquet 1232	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN186	Andropogon chinensis	Pasquet 1232	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN09	Andropogon gerardi	CAM 1351	paired-end	random	local	Leaf base	Adult	9	PRJNA1098707
+AN20RN19	Andropogon gerardi	CAM 1351	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN27	Andropogon gerardi	CAM 1351	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN39	Andropogon gerardi	CAM 1351	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN65	Andropogon gerardi	CAM 1351	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN89	Andropogon gerardi	CAM 1351	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN93	Andropogon gerardi	CAM 1351	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN123	Andropogon burmanicus	Traiperm 572	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN124	Andropogon burmanicus	Traiperm 572	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN21RN125	Andropogon burmanicus	Traiperm 572	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN181	Andropogon burmanicus	Traiperm 572	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN187	Andropogon burmanicus	Traiperm 572	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN75	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN76	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN77	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN97	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN98	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN04	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN14	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN34	Andropogon virginicus	Kellogg 1287-8	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN03	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN13	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN22	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN23	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN33	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN52	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN20RN72	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN81	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN92	Bothriochloa laguroides	Kellogg 1279-B	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN165	Cymbopogon citratus	PI 314907	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN176	Cymbopogon citratus	PI 314907	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN88	Cymbopogon citratus	PI 314907	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN89	Cymbopogon citratus	PI 314907	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN90	Cymbopogon citratus	PI 314907	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN91	Cymbopogon citratus	PI 314907	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN07	Cymbopogon refractus	AUB 69	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN17	Cymbopogon refractus	AUB 69	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN30	Cymbopogon refractus	AUB 69	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN37	Cymbopogon refractus	AUB 69	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN74	Cymbopogon refractus	AUB 69	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN86	Cymbopogon refractus	AUB 69	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN95	Cymbopogon refractus	AUB 69	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN08	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN18	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN38	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN57	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN20RN99	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN138	Elionurus tripsacoides	Layton Zhong 168	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN21RN160	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN171	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN58	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN59	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN60	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN61	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN62	Hemarthria compressa	Kellogg PI 404118	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN16	Heteropogon contortus	AUB 53-1	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN06	Heteropogon contortus	AUB 53-1	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN36	Heteropogon contortus	AUB 53-1	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN55	Heteropogon contortus	AUB 53-1	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN20RN79	Heteropogon contortus	AUB 53-1	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN90	Heteropogon contortus	AUB 53-1	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN159	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN170	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN52	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN53	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN54	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN55	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN56	Ischaemum rugosum	Pasquet 1136	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN161	Pogonatherum paniceum	Clark	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN64	Pogonatherum paniceum	Clark	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN65	Pogonatherum paniceum	Clark	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN66	Pogonatherum paniceum	Clark	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN67	Pogonatherum paniceum	Clark	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN68	Pogonatherum paniceum	Clark	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN69	Pogonatherum paniceum	Clark	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN134	Rhytachne rottboellioides	Malcomber 3106	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN135	Rhytachne rottboellioides	Malcomber 3106	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN21RN136	Rhytachne rottboellioides	Malcomber 3106	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN183	Rhytachne rottboellioides	Malcomber 3106	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN189	Rhytachne rottboellioides	Malcomber 3106	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN114	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN115	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN21RN116	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN117	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN118	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN21RN119	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN179	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN185	Rottboellia tuberculosa	Layton Zhong 169	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN128	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN129	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN21RN130	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN131	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN133	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN182	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN188	Schizachyrium microstachyum	PI 203595	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN01	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN11	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN31	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN43	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN80	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN84	Schizachyrium scoparium	CAM 1384	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN02	Sorghastrum nutans	CAM 1369	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN12	Sorghastrum nutans	CAM 1369	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN28	Sorghastrum nutans	CAM 1369	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN29	Sorghastrum nutans	CAM 1369	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN32	Sorghastrum nutans	CAM 1369	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN48	Sorghastrum nutans	CAM 1369	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN91	Sorghastrum nutans	CAM 1369	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN164	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN175	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN80	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN81	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN82	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN83	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN84	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN85	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN21RN86	Thelepogon elegans	Pasquet 1246	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN05	Themeda triandra	AUB 21-1	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN15	Themeda triandra	AUB 21-1	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN25	Themeda triandra	AUB 21-1	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN26	Themeda triandra	AUB 21-1	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN35	Themeda triandra	AUB 21-1	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN49	Themeda triandra	AUB 21-1	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN82	Themeda triandra	AUB 21-1	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN20RN87	Themeda triandra	AUB 21-1	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN163	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN174	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN75	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN76	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN77	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN78	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN79	Tripsacum dactyloides	FL_9056069_6	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN157	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN168	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN39	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN40	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN41	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN42	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN43	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN44	Tripsacum dactyloides	KS_B6_1	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN10	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN20RN20	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN20RN40	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN20RN59	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN20RN60	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN73	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Flower	Seed head emergence	1	PRJNA1098707
+AN20RN78	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN85	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN20RN88	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN20RN94	Tripsacum dactyloides	McKain 334-5	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN156	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN167	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN33	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN34	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN35	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN21RN36	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN37	Tripsacum zopilotense	DC_05_58_3A	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN158	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN169	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN46	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN47	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN48	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN49	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN50	Urelytrum digitatum	Pasquet 1171	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN110	Vossia cuspidata	Pasquet 1098	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN111	Vossia cuspidata	Pasquet 1098	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN21RN112	Vossia cuspidata	Pasquet 1098	paired-end	random	local	Young tiller	Adult	1	PRJNA1098707
+AN21RN178	Vossia cuspidata	Pasquet 1098	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN184	Vossia cuspidata	Pasquet 1098	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN143	Zea diploperennis	Gigi	paired-end	random	local	Shoot apical meristem	Adult	1	PRJNA1098707
+AN21RN144	Zea diploperennis	Gigi	paired-end	random	local	Shoot apical meristem	Adult	1	PRJNA1098707
+AN21RN145	Zea diploperennis	Gigi	paired-end	random	local	Leaf	Adult	1	PRJNA1098707
+AN21RN146	Zea diploperennis	Gigi	paired-end	random	local	Ligule	Adult	1	PRJNA1098707
+AN21RN147	Zea diploperennis	Gigi	paired-end	random	local	Root tip	Adult	1	PRJNA1098707
+AN21RN166	Zea diploperennis	Momo	paired-end	random	local	Leaf	Early senescence	1	PRJNA1098707
+AN21RN177	Zea diploperennis	Momo	paired-end	random	local	Crown	Early senescence	1	PRJNA1098707
+AN21RN92	Zea diploperennis	Momo	paired-end	random	local	Leaf tip	Adult	1	PRJNA1098707
+AN21RN93	Zea diploperennis	Momo	paired-end	random	local	Leaf base	Adult	1	PRJNA1098707
+AN21RN94	Zea diploperennis	Momo	paired-end	random	local	Growing point	Adult	1	PRJNA1098707
+AN21RN95	Zea diploperennis	Momo	paired-end	random	local	Root	Adult	1	PRJNA1098707
+AN21RN96	Zea diploperennis	Momo	paired-end	random	local	Young tiller	Growing point differentiation	1	PRJNA1098707
+AN21RN98	Zea mays huehuetenangensis	PI 441934	paired-end	random	local	Shoot	6 days	1	PRJNA1098707
+AN21RN99	Zea mays huehuetenangensis	PI 441934	paired-end	random	local	Root	6 days	1	PRJNA1098707
+AN21RN154	Zea mays mexicana	TIL18	paired-end	random	local	Shoot	22 days	1	PRJNA1098707
+AN21RN155	Zea mays mexicana	TIL18	paired-end	random	local	Root	22 days	1	PRJNA1098707
+AN21RN01	Zea mays mexicana	TIL25	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN97	Zea mays mexicana	TIL25	paired-end	random	local	Flower	Flowering	1	PRJNA1098707
+AN21RN148	Zea mays parviglumis	TIL01	paired-end	random	local	Shoot	22 days	3	PRJNA1098707
+AN21RN149	Zea mays parviglumis	TIL01	paired-end	random	local	Root	22 days	3	PRJNA1098707
+AN21RN150	Zea mays parviglumis	TIL01	paired-end	random	local	Shoot	22 days	2	PRJNA1098707
+AN21RN151	Zea mays parviglumis	TIL01	paired-end	random	local	Root	22 days	2	PRJNA1098707
+AN21RN152	Zea mays parviglumis	TIL01	paired-end	random	local	Shoot	22 days	1	PRJNA1098707
+AN21RN153	Zea mays parviglumis	TIL01	paired-end	random	local	Root	22 days	1	PRJNA1098707
+AN21RN100	Zea nicaraguensis	PI 615697	paired-end	random	local	Shoot	6 days	7	PRJNA1098707
+ERR3773807	Zea mays	B73	paired-end	polyA	sra	root	seedling		E-MTAB-8628
+ERR3773808	Zea mays	B73	paired-end	polyA	sra	root	seedling		E-MTAB-8628
+ERR3773809	Zea mays	B73	paired-end	polyA	sra	shoot	seedling		E-MTAB-8628
+ERR3773810	Zea mays	B73	paired-end	polyA	sra	shoot	seedling		E-MTAB-8628
+ERR3773811	Zea mays	B73	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773812	Zea mays	B73	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773813	Zea mays	B73	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773814	Zea mays	B73	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773815	Zea mays	B73	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773816	Zea mays	B73	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773817	Zea mays	B73	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8628
+ERR3773818	Zea mays	B73	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8628
+ERR3773819	Zea mays	B73	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8628
+ERR3773820	Zea mays	B73	paired-end	polyA	sra	ear	LP.18 eighteen leaves visible stage		E-MTAB-8628
+ERR3773821	Zea mays	B73	paired-end	polyA	sra	ear	LP.18 eighteen leaves visible stage		E-MTAB-8628
+ERR3773822	Zea mays	B73	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8628
+ERR3773823	Zea mays	B73	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8628
+ERR3773824	Zea mays	B73	paired-end	polyA	sra	endosperm	16 days after pollination		E-MTAB-8628
+ERR3773825	Zea mays	B73	paired-end	polyA	sra	endosperm	16 days after pollination		E-MTAB-8628
+ERR3773826	Zea mays	B73	paired-end	polyA	sra	embryo	16 days after pollination		E-MTAB-8628
+ERR3773827	Zea mays	B73	paired-end	polyA	sra	embryo	16 days after pollination		E-MTAB-8628
+ERR3791403	Zea mays	B97	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791404	Zea mays	B97	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791405	Zea mays	CML103	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791406	Zea mays	CML103	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791407	Zea mays	CML277	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791408	Zea mays	CML277	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791409	Zea mays	CML228	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791410	Zea mays	CML228	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791411	Zea mays	CML247	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791412	Zea mays	CML247	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791413	Zea mays	CML322	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791414	Zea mays	CML322	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791415	Zea mays	CML333	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791416	Zea mays	CML333	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791417	Zea mays	CML52	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791418	Zea mays	CML52	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791419	Zea mays	CML69	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791420	Zea mays	CML69	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791421	Zea mays	HP301	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791422	Zea mays	HP301	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791423	Zea mays	Il14H	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791424	Zea mays	Il14H	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791425	Zea mays	Ki11	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791426	Zea mays	Ki11	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791427	Zea mays	Ki3	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791428	Zea mays	Ki3	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791429	Zea mays	Ky21	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791430	Zea mays	Ky21	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791431	Zea mays	M162W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791432	Zea mays	M162W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791433	Zea mays	M37W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791434	Zea mays	M37W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791435	Zea mays	Mo18W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791436	Zea mays	Mo18W	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791437	Zea mays	Ms71	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791438	Zea mays	Ms71	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791439	Zea mays	NC350	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791440	Zea mays	NC350	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791441	Zea mays	NC358	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791442	Zea mays	NC358	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791443	Zea mays	Oh43	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791444	Zea mays	Oh43	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791445	Zea mays	Oh7B	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791446	Zea mays	Oh7B	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791447	Zea mays	P39	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791448	Zea mays	P39	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791449	Zea mays	Tx303	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791450	Zea mays	Tx303	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791451	Zea mays	Tzi8	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791452	Zea mays	Tzi8	paired-end	polyA	sra	anther	FL.00 first flower(s) open stage		E-MTAB-8633
+ERR3791453	Zea mays	B97	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791454	Zea mays	B97	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791455	Zea mays	CML103	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791456	Zea mays	CML103	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791457	Zea mays	CML277	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791458	Zea mays	CML277	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791459	Zea mays	CML228	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791460	Zea mays	CML228	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791461	Zea mays	CML247	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791462	Zea mays	CML247	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791463	Zea mays	CML322	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791464	Zea mays	CML322	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791465	Zea mays	CML333	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791466	Zea mays	CML333	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791467	Zea mays	CML52	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791468	Zea mays	CML52	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791469	Zea mays	CML69	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791470	Zea mays	CML69	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791471	Zea mays	HP301	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791472	Zea mays	HP301	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791473	Zea mays	Il14H	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791474	Zea mays	Il14H	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791475	Zea mays	Ki11	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791476	Zea mays	Ki11	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791477	Zea mays	Ki3	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791478	Zea mays	Ki3	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791479	Zea mays	Ky21	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791480	Zea mays	Ky21	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791481	Zea mays	M162W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791482	Zea mays	M162W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791483	Zea mays	M37W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791484	Zea mays	M37W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791485	Zea mays	Mo18W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791486	Zea mays	Mo18W	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791487	Zea mays	Ms71	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791488	Zea mays	Ms71	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791489	Zea mays	NC350	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791490	Zea mays	NC358	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791491	Zea mays	NC358	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791492	Zea mays	Oh43	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791493	Zea mays	Oh43	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791494	Zea mays	Oh7B	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791495	Zea mays	Oh7B	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791496	Zea mays	P39	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791497	Zea mays	P39	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791498	Zea mays	Tx303	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791499	Zea mays	Tx303	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791500	Zea mays	Tzi8	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791501	Zea mays	Tzi8	paired-end	polyA	sra	ear inflorescence	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791502	Zea mays	B97	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791503	Zea mays	B97	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791504	Zea mays	CML103	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791505	Zea mays	CML103	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791506	Zea mays	CML322	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791507	Zea mays	CML322	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791508	Zea mays	CML69	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791509	Zea mays	CML69	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791510	Zea mays	HP301	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791511	Zea mays	HP301	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791512	Zea mays	Il14H	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791513	Zea mays	Ki11	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791514	Zea mays	Ki3	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791515	Zea mays	Ky21	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791516	Zea mays	Ky21	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791517	Zea mays	M37W	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791518	Zea mays	M37W	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791519	Zea mays	Mo18W	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791520	Zea mays	Mo18W	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791521	Zea mays	Ms71	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791522	Zea mays	Ms71	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791523	Zea mays	NC350	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791524	Zea mays	NC350	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791525	Zea mays	NC350	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791526	Zea mays	NC350	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791527	Zea mays	NC358	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791528	Zea mays	NC358	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791529	Zea mays	Oh43	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791530	Zea mays	Oh43	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791531	Zea mays	Oh7B	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791532	Zea mays	Oh7B	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791533	Zea mays	P39	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791534	Zea mays	P39	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791535	Zea mays	Tx303	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791536	Zea mays	Tx303	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791537	Zea mays	Tzi8	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791538	Zea mays	Tzi8	paired-end	polyA	sra	plant embryo	adult		E-MTAB-8633
+ERR3791539	Zea mays	B97	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791540	Zea mays	B97	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791541	Zea mays	CML103	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791542	Zea mays	CML103	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791543	Zea mays	CML228	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791544	Zea mays	CML247	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791545	Zea mays	CML247	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791546	Zea mays	CML322	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791547	Zea mays	CML322	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791548	Zea mays	CML333	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791549	Zea mays	CML69	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791550	Zea mays	CML69	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791551	Zea mays	HP301	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791552	Zea mays	HP301	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791553	Zea mays	Il14H	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791554	Zea mays	Il14H	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791555	Zea mays	Ki11	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791556	Zea mays	Ki3	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791557	Zea mays	Ki3	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791558	Zea mays	Ky21	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791559	Zea mays	Ky21	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791560	Zea mays	M162W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791561	Zea mays	M162W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791562	Zea mays	M162W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791563	Zea mays	M162W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791564	Zea mays	M37W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791565	Zea mays	M37W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791566	Zea mays	Mo18W	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791567	Zea mays	Ms71	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791568	Zea mays	Ms71	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791569	Zea mays	NC350	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791570	Zea mays	NC358	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791571	Zea mays	NC358	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791572	Zea mays	Oh43	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791573	Zea mays	Oh43	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791574	Zea mays	Oh7B	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791575	Zea mays	Oh7B	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791576	Zea mays	P39	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791577	Zea mays	P39	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791578	Zea mays	Tx303	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791579	Zea mays	Tx303	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791580	Zea mays	Tzi8	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791581	Zea mays	Tzi8	paired-end	polyA	sra	endosperm	adult		E-MTAB-8633
+ERR3791582	Zea mays	B97	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791583	Zea mays	B97	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791584	Zea mays	CML103	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791585	Zea mays	CML103	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791586	Zea mays	CML277	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791587	Zea mays	CML277	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791588	Zea mays	CML228	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791589	Zea mays	CML228	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791590	Zea mays	CML247	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791591	Zea mays	CML247	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791592	Zea mays	CML322	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791593	Zea mays	CML322	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791594	Zea mays	CML333	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791595	Zea mays	CML333	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791596	Zea mays	CML52	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791597	Zea mays	CML52	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791598	Zea mays	CML69	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791599	Zea mays	CML69	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791600	Zea mays	HP301	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791601	Zea mays	HP301	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791602	Zea mays	Il14H	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791603	Zea mays	Il14H	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791604	Zea mays	Ki11	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791605	Zea mays	Ki11	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791606	Zea mays	Ki3	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791607	Zea mays	Ki3	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791608	Zea mays	Ky21	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791609	Zea mays	Ky21	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791610	Zea mays	M162W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791611	Zea mays	M162W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791612	Zea mays	M37W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791613	Zea mays	M37W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791614	Zea mays	Mo18W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791615	Zea mays	Mo18W	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791616	Zea mays	Ms71	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791617	Zea mays	Ms71	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791618	Zea mays	NC350	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791619	Zea mays	NC350	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791620	Zea mays	NC350	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791621	Zea mays	NC358	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791622	Zea mays	NC358	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791623	Zea mays	Oh43	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791624	Zea mays	Oh43	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791625	Zea mays	Oh7B	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791626	Zea mays	Oh7B	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791627	Zea mays	P39	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791628	Zea mays	P39	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791629	Zea mays	Tx303	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791630	Zea mays	Tx303	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791631	Zea mays	Tx303	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791632	Zea mays	Tzi8	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791633	Zea mays	Tzi8	paired-end	polyA	sra	leaf base	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791634	Zea mays	B97	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791635	Zea mays	B97	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791636	Zea mays	CML103	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791637	Zea mays	CML103	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791638	Zea mays	CML277	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791639	Zea mays	CML277	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791640	Zea mays	CML228	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791641	Zea mays	CML228	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791642	Zea mays	CML247	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791643	Zea mays	CML247	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791644	Zea mays	CML322	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791645	Zea mays	CML322	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791646	Zea mays	CML333	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791647	Zea mays	CML333	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791648	Zea mays	CML52	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791649	Zea mays	CML52	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791650	Zea mays	CML69	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791651	Zea mays	CML69	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791652	Zea mays	HP301	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791653	Zea mays	HP301	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791654	Zea mays	Il14H	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791655	Zea mays	Il14H	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791656	Zea mays	Ki11	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791657	Zea mays	Ki11	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791658	Zea mays	Ki3	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791659	Zea mays	Ki3	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791660	Zea mays	Ky21	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791661	Zea mays	Ky21	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791662	Zea mays	M162W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791663	Zea mays	M162W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791664	Zea mays	M37W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791665	Zea mays	M37W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791666	Zea mays	Mo18W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791667	Zea mays	Mo18W	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791668	Zea mays	Ms71	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791669	Zea mays	Ms71	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791670	Zea mays	NC350	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791671	Zea mays	NC350	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791672	Zea mays	NC358	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791673	Zea mays	NC358	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791674	Zea mays	Oh43	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791675	Zea mays	Oh43	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791676	Zea mays	Oh7B	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791677	Zea mays	P39	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791678	Zea mays	P39	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791679	Zea mays	Tx303	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791680	Zea mays	Tx303	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791681	Zea mays	Tzi8	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791682	Zea mays	Tzi8	paired-end	polyA	sra	leaf	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791683	Zea mays	B97	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791684	Zea mays	B97	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791685	Zea mays	B97	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791686	Zea mays	CML103	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791687	Zea mays	CML103	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791688	Zea mays	CML277	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791689	Zea mays	CML277	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791690	Zea mays	CML228	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791691	Zea mays	CML228	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791692	Zea mays	CML247	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791693	Zea mays	CML247	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791694	Zea mays	CML322	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791695	Zea mays	CML322	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791696	Zea mays	CML333	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791697	Zea mays	CML333	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791698	Zea mays	CML52	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791699	Zea mays	CML52	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791700	Zea mays	CML69	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791701	Zea mays	CML69	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791702	Zea mays	HP301	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791703	Zea mays	HP301	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791704	Zea mays	Il14H	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791705	Zea mays	Il14H	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791706	Zea mays	Ki11	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791707	Zea mays	Ki11	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791708	Zea mays	Ki3	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791709	Zea mays	Ki3	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791710	Zea mays	Ky21	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791711	Zea mays	Ky21	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791712	Zea mays	M162W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791713	Zea mays	M162W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791714	Zea mays	M37W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791715	Zea mays	M37W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791716	Zea mays	Mo18W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791717	Zea mays	Mo18W	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791718	Zea mays	Ms71	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791719	Zea mays	Ms71	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791720	Zea mays	NC350	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791721	Zea mays	NC350	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791722	Zea mays	NC358	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791723	Zea mays	NC358	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791724	Zea mays	Oh43	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791725	Zea mays	Oh43	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791726	Zea mays	Oh7B	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791727	Zea mays	Oh7B	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791728	Zea mays	P39	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791729	Zea mays	P39	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791730	Zea mays	Tx303	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791731	Zea mays	Tx303	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791732	Zea mays	Tx303	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791733	Zea mays	Tzi8	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791734	Zea mays	Tzi8	paired-end	polyA	sra	leaf tip	LP.11 eleven leaves visible stage		E-MTAB-8633
+ERR3791735	Zea mays	CML277	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791736	Zea mays	CML277	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791737	Zea mays	CML228	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791738	Zea mays	CML228	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791739	Zea mays	CML247	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791740	Zea mays	CML247	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791741	Zea mays	CML322	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791742	Zea mays	CML322	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791743	Zea mays	CML333	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791744	Zea mays	CML333	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791745	Zea mays	CML52	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791746	Zea mays	CML52	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791747	Zea mays	CML69	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791748	Zea mays	CML69	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791749	Zea mays	HP301	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791750	Zea mays	HP301	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791751	Zea mays	Il14H	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791752	Zea mays	Il14H	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791753	Zea mays	Ki11	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791754	Zea mays	Ki11	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791755	Zea mays	Ki3	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791756	Zea mays	Ki3	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791757	Zea mays	Ki3	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791758	Zea mays	Ky21	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791759	Zea mays	Ky21	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791760	Zea mays	M162W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791761	Zea mays	M162W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791762	Zea mays	M37W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791763	Zea mays	M37W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791764	Zea mays	Mo18W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791765	Zea mays	Mo18W	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791766	Zea mays	Ms71	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791767	Zea mays	Ms71	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791768	Zea mays	NC350	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791769	Zea mays	NC350	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791770	Zea mays	NC358	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791771	Zea mays	NC358	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791772	Zea mays	Oh43	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791773	Zea mays	Oh43	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791774	Zea mays	Oh7B	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791775	Zea mays	Oh7B	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791776	Zea mays	P39	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791777	Zea mays	P39	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791778	Zea mays	Tx303	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791779	Zea mays	Tx303	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791780	Zea mays	Tzi8	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791781	Zea mays	Tzi8	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791782	Zea mays	B97	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791783	Zea mays	B97	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791784	Zea mays	CML103	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791785	Zea mays	CML103	paired-end	polyA	sra	root	seedling		E-MTAB-8633
+ERR3791786	Zea mays	CML277	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791787	Zea mays	CML277	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791788	Zea mays	CML228	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791789	Zea mays	CML228	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791790	Zea mays	CML247	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791791	Zea mays	CML247	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791792	Zea mays	CML322	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791793	Zea mays	CML322	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791794	Zea mays	CML333	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791795	Zea mays	CML333	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791796	Zea mays	CML52	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791797	Zea mays	CML52	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791798	Zea mays	CML69	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791799	Zea mays	CML69	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791800	Zea mays	HP301	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791801	Zea mays	HP301	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791802	Zea mays	Il14H	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791803	Zea mays	Il14H	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791804	Zea mays	Ki11	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791805	Zea mays	Ki3	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791806	Zea mays	Ki3	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791807	Zea mays	Ky21	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791808	Zea mays	Ky21	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791809	Zea mays	M162W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791810	Zea mays	M162W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791811	Zea mays	M37W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791812	Zea mays	M37W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791813	Zea mays	Mo18W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791814	Zea mays	Mo18W	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791815	Zea mays	Ms71	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791816	Zea mays	Ms71	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791817	Zea mays	NC350	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791818	Zea mays	NC350	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791819	Zea mays	NC358	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791820	Zea mays	NC358	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791821	Zea mays	Oh43	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791822	Zea mays	Oh43	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791823	Zea mays	Oh7B	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791824	Zea mays	Oh7B	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791825	Zea mays	P39	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791826	Zea mays	P39	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791827	Zea mays	Tx303	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791828	Zea mays	Tx303	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791829	Zea mays	Tzi8	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791830	Zea mays	Tzi8	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791831	Zea mays	B97	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791832	Zea mays	B97	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791833	Zea mays	CML103	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791834	Zea mays	CML103	paired-end	polyA	sra	shoot	seedling		E-MTAB-8633
+ERR3791835	Zea mays	B97	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791836	Zea mays	B97	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791837	Zea mays	CML103	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791838	Zea mays	CML277	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791839	Zea mays	CML277	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791840	Zea mays	CML228	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791841	Zea mays	CML228	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791842	Zea mays	CML247	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791843	Zea mays	CML247	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791844	Zea mays	CML322	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791845	Zea mays	CML322	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791846	Zea mays	CML333	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791847	Zea mays	CML333	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791848	Zea mays	CML52	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791849	Zea mays	CML69	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791850	Zea mays	CML69	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791851	Zea mays	HP301	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791852	Zea mays	HP301	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791853	Zea mays	Il14H	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791854	Zea mays	Il14H	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791855	Zea mays	Ki11	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791856	Zea mays	Ki11	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791857	Zea mays	Ki3	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791858	Zea mays	Ki3	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791859	Zea mays	Ky21	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791860	Zea mays	Ky21	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791861	Zea mays	M162W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791862	Zea mays	M162W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791863	Zea mays	M37W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791864	Zea mays	M37W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791865	Zea mays	Mo18W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791866	Zea mays	Mo18W	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791867	Zea mays	Ms71	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791868	Zea mays	Ms71	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791869	Zea mays	NC350	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791870	Zea mays	NC350	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791871	Zea mays	NC358	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791872	Zea mays	NC358	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791873	Zea mays	Oh43	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791874	Zea mays	Oh43	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791875	Zea mays	Oh7B	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791876	Zea mays	Oh7B	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791877	Zea mays	P39	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791878	Zea mays	P39	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791879	Zea mays	Tx303	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791880	Zea mays	Tx303	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791881	Zea mays	Tzi8	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633
+ERR3791882	Zea mays	Tzi8	paired-end	polyA	sra	tassel	LP.18 eighteen leaves visible stage		E-MTAB-8633

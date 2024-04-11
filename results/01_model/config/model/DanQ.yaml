@@ -1,0 +1,12 @@
+defaults:
+  - override /data@_group_: onehot
+
+architecture: DanQ
+hyperparameters:
+  conv_channels: 320
+  conv_kernel_size: 26
+  pool_kernel_size: 13
+  pool_stride: 13
+  dropout1_rate: 0.2
+  lstm_hidden_size: 320
+  dropout2_rate: 0.5

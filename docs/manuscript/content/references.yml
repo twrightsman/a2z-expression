@@ -1,0 +1,17 @@
+bib-madje-2022-typst:
+  type: thesis
+  genre: Doctoral dissertation
+  title: A Programmable Markup Language for Typesetting
+  author: Mädje, Laurenz
+  date: 2022-09-08
+  publisher: Technical University of Berlin
+  url: https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf
+
+bib-haug-2022-typst:
+  type: thesis
+  genre: Doctoral dissertation
+  title: Fast Typesetting with Incremental Compilation
+  author: Haug, Martin E.
+  date: 2022-06
+  publisher: Technical University of Berlin
+  url: https://www.user.tu-berlin.de/mhaug/fast-typesetting-incremental-compilation.pdf

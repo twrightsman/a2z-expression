@@ -1,0 +1,13 @@
+defaults:
+  - override /data@_group_: onehot
+
+architecture: Miniformer
+hyperparameters:
+  dim: 120
+  num_downsamples: 3
+  depth: 3
+  heads: 2
+  attn_dim_key: 64
+  attn_dropout_rate: 0.05
+  pos_dropout_rate: 0.01
+  dropout_rate: 0.4

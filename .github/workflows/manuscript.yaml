@@ -1,0 +1,50 @@
+name: Render manuscript on change
+
+on:
+  push:
+    paths:
+      - 'docs/manuscript/**.typ'
+      - 'docs/manuscript/pixi.lock'
+      - 'results/*/figures/*'
+  workflow_dispatch:
+
+env:
+  PIXI_VERSION: 0.15.1
+
+jobs:
+  render:
+    name: Render manuscript
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Cache pixi binary
+        id: cache-pixi
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/bin/pixi
+          key: cache-pixi-${{ env.PIXI_VERSION }}
+      - if: ${{ steps.cache-pixi.outputs.cache-hit != 'true' }}
+        name: Install pixi
+        run: |
+          mkdir --parents $HOME/.local/bin
+          wget https://github.com/prefix-dev/pixi/releases/download/v${PIXI_VERSION}/pixi-x86_64-unknown-linux-musl --output-document=$HOME/.local/bin/pixi
+          chmod u+x $HOME/.local/bin/pixi
+      - name: Cache rattler cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/rattler
+          key: cache-rattler-manuscript-${{ hashFiles('docs/manuscript/pixi.lock') }}
+      - name: Build environment
+        run: $HOME/.local/bin/pixi install
+        working-directory: docs/manuscript
+      - name: Render manuscript
+        run: $HOME/.local/bin/pixi run build
+        working-directory: docs/manuscript
+      - name: Upload manuscript as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuscript
+          path: docs/manuscript/manuscript.pdf

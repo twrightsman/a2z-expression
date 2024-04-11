@@ -1,0 +1,14 @@
+# @package _global_
+defaults:
+  - base
+  - override /model: FNetCompression
+
+model:
+  hyperparameters:
+    embed_dim: 128
+    pool_size: 20
+    feedforward_dim: 128
+    num_fnet_layers: 4
+    num_transformer_layers: 3
+    final_fc_dim: 128
+    max_length: 10000

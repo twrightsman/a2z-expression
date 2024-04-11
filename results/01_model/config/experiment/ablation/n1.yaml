@@ -1,0 +1,4 @@
+# @package _global_
+training:
+  keep_genomes:
+    - Tripsacum_dactyloides/FL_9056069_6
