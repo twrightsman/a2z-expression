@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the preprint describing it."
+authors:
+  - family-names: "Wrightsman"
+    given-names: "Travis"
+    orcid: "https://orcid.org/0000-0002-0904-6473"
+title: "a2z-expression"
+version: 1.0.0
+doi: 10.5281/zenodo.10723668
+date-released: 2024-04-13
+url: "https://github.com/twrightsman/a2z-expression"
+preferred-citation:
+  authors:
+    - family-names: "Wrightsman"
+      given-names: "Travis"
+      orcid: "https://orcid.org/0000-0002-0904-6473"
+    - family-names: "Ferebee"
+      given-names: "Taylor"
+      orcid: "http://orcid.org/0000-0002-4552-8699"
+    - family-names: "Romay"
+      given-names: "M. Cinta"
+      orcid: "http://orcid.org/0000-0001-9309-1586"
+    - family-names: "AuBuchon-Elder"
+      given-names: "Taylor"
+      orcid: "http://orcid.org/0000-0002-0051-8403"
+    - family-names: "Phillips"
+      given-names: "Alyssa R."
+      orcid: "http://orcid.org/0000-0001-8050-3051"
+    - family-names: "Syring"
+      given-names: "Michael"
+    - family-names: "Kellogg"
+      given-names: "Elizabeth A."
+      orcid: "http://orcid.org/0000-0003-1671-7447"
+    - family-names: "Buckler"
+      given-names: "Edward S."
+      orcid: "https://orcid.org/0000-0002-3100-371X"
+  title: "Current genomic deep learning architectures generalize across grass species but not alleles"
+  type: article
+  journal: "bioRxiv"
+  month: 04
+  year: 2024
+  doi: "10.1101/2024.04.11.589024"
+  date-released: 2024-04-13
+  url: "https://doi.org/10.1101/2024.04.11.589024"
