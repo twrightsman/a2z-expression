@@ -3,6 +3,7 @@
 The companion Zenodo repository @bib-zenodo contains the source code required to reproduce this manuscript.
 Pandas @bib-pandas and Polars @bib-polars were used to process tabular data.
 Matplotlib @bib-matplotlib was used for plotting figures.
+GNU parallel @bib-parallel was used for managing parallel execution of some analyses.
 This manuscript is written in and rendered using Typst @bib-madje-2022-typst @bib-haug-2022-typst.
 
 == Software Environments
